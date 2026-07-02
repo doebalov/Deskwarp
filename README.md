@@ -5,5 +5,5 @@
 <h1 align="center">Deskwarp</h1>
 
 <p align="center">
-  <strong>A Windows utility that allows you to apply effects like Wobbly Windows and Magic Lamp.</strong>
+  <strong>Bring the legendary Wobbly Windows effect to your desktop.</strong>
 </p>
