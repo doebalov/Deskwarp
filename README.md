@@ -5,7 +5,7 @@
 <h1 align="center">Deskwarp</h1>
 
 <p align="center">
-  <font size="22"><strong>Bring the legendary Wobbly Windows effect to your desktop.</strong></font>
+  <strong>Bring the legendary Wobbly Windows effect to your desktop.</strong>
 </p>
 
 <p align="center">
