@@ -1,0 +1,36 @@
+END USER LICENSE AGREEMENT (EULA)
+For the Software Application "Deskwarp"
+
+IMPORTANT: READ CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING THE SOFTWARE.
+
+This End User License Agreement ("Agreement") is a legally binding contract between you (either an individual or a single entity, hereinafter "Licensee") and the Author and Rightsholder (hereinafter "Licensor") of the software application "Deskwarp". By installing, copying, or otherwise using the Software, Licensee agrees to be bound by the terms of this Agreement. If Licensee does not agree to these terms, do not install or use the Software.
+
+1. GRANT OF LICENSE
+Licensor hereby grants Licensee a limited, non-exclusive, non-transferable, non-sublicensable, and revocable license to download, install, and execute the compiled binary executables of the Software solely for personal, non-commercial use on compatible devices owned or controlled by Licensee. All rights not expressly granted to Licensee are reserved by Licensor.
+
+2. STRICT RESTRICTIONS AND PROHIBITIONS
+Licensee shall not, and shall not permit or cause any third party to:
+2.1. Distribution & Sublicensing: Copy, distribute, publish, market, lease, rent, sublicense, assign, or otherwise transfer the Software, its compiled components, or any modified versions thereof to any third party.
+2.2. Reverse Engineering & Decompilation: Reverse engineer, decompile, disassemble, decrypt, extract, or attempt to derive the source code, underlying structures, or internal operational logic of the Software's binary files.
+2.3. Algorithm & IP Appropriation: Copy, clone, or extract the specific proprietary physics simulation algorithms (including the soft-body node-and-spring grid systems), window capture mechanics, or architectural logic for use in derivative works or competing products.
+2.4. Modification & Tampering: Modify, adapt, translate, alter, or create derivative works based upon the Software, or bypass any built-in security, digital rights management (DRM), or anti-debugging mechanisms.
+2.5. Proprietary Notices: Remove, alter, or obscure any copyright notices, trademarks, digital signatures, or other proprietary legends contained within or on the Software.
+
+3. INTELLECTUAL PROPERTY AND OWNERSHIP
+The Software is licensed, not sold. Licensee acknowledges that Licensor retains sole and exclusive ownership of all right, title, and interest in and to the Software, including all intellectual property rights embedded therein. This includes, without limitation:
+- The original source code, internal structures, and technical architecture.
+- The proprietary physics engine, node-and-spring SoftBody simulation configurations, and kinetic deformation parameters.
+- Low-level system integration implementations, including Win32 API window tracking hooks (WH_MOUSE_LL), graphics rendering pipelines using DirectX 11, and DirectComposition interfaces.
+- Graphical user interface components managed via the Qt framework.
+
+4. TERMINATION
+This Agreement is effective from the date Licensee first installs or uses the Software and shall remain in effect until terminated. This License will terminate automatically and immediately without notice from Licensor if Licensee fails to comply with any provision of this Agreement. Upon termination, Licensee must immediately cease all use of the Software and permanently delete all copies of the Software from all devices.
+
+5. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. LICENSOR DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED, BUG-FREE, OR COMPATIBLE WITH ALL FUTURE WINDOWS OPERATING SYSTEM UPDATES.
+
+6. LIMITATION OF LIABILITY
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF DATA, SYSTEM CRASHES, HARDWARE OR GPU MALFUNCTIONS, DESKTOP ENVIRONMENT INSTABILITY, OR BUSINESS INTERRUPTION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. GOVERNING LAW AND SEVERABILITY
+This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction of the Licensor, without regard to conflict of law principles. If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect.
