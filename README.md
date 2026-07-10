@@ -46,7 +46,3 @@ Built with performance in mind, Deskwarp calculates and renders real-time window
 ## Open Source & Transparency
 
 Security and community trust are fundamental to this project. Deskwarp is distributed completely free of charge, providing unrestricted access to the underlying logic and rendering pipeline. Developers and enthusiasts are encouraged to inspect the repository, review the architecture, compile the software directly from the source, and contribute to future iterations.
-
-## Getting Started
-
-*(Тут в будущем можно будет добавить короткую инструкцию по установке, требованиям к системе или сборке из исходников)*
