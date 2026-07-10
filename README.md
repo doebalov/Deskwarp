@@ -46,3 +46,10 @@ Built with performance in mind, Deskwarp calculates and renders real-time window
 ## Open Source & Transparency
 
 Security and community trust are fundamental to this project. Deskwarp is distributed completely free of charge, providing unrestricted access to the underlying logic and rendering pipeline. Developers and enthusiasts are encouraged to inspect the repository, review the architecture, compile the software directly from the source, and contribute to future iterations.
+
+<br><br>
+<div align="center">
+  <small>
+    <b>Keywords (do not read):</b> wobbly windows, jelly windows, windows 10, windows 11, desktop customization, desktop ricing, window physics, desktop effects, fluid window animations, bouncy windows, kinetic ui, window manager, compiz fusion alternative, compiz for windows, kwin wobbly windows, windowfx alternative, c++ window manager, qt6 desktop application, win32 api tweaks, directx rendering, dwm hooking, desktop modding, aesthetic desktop, open-source windows tweaks, ui tweaking, visual enhancement, native performance, window drag effects.
+  </small>
+</div>
