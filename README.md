@@ -25,3 +25,28 @@
     <img src="https://img.shields.io/badge/DONATE-0066ff?style=for-the-badge" alt="Donate">
   </a>
 </p>
+
+---
+
+## About The Project
+
+Deskwarp is a highly optimized, open-source desktop customization utility designed specifically for Windows 10 and Windows 11 environments. It reintroduces the classic, fluid, physics-based "Wobbly Windows" animation to modern operating systems. 
+
+Built with performance in mind, Deskwarp calculates and renders real-time window deformations. Whether you are moving or resizing application windows, the software applies smooth, interactive physics calculations that react instantly to cursor input, significantly enhancing the visual feedback and overall user experience of your workspace.
+
+## Why Choose Deskwarp
+
+| Advantage | Description |
+| :--- | :--- |
+| **Fully Open-Source** | 100% transparent codebase. The project is entirely open for auditing, contributing, and modification with zero hidden background processes or telemetry. |
+| **Native Performance** | Engineered in C++ for maximum efficiency. Deskwarp operates with a minimal memory and CPU footprint, ensuring that system resources remain dedicated to your primary tasks. |
+| **Seamless Integration** | Fully compatible with modern Windows architectures. It functions unobtrusively alongside default OS window management protocols. |
+| **Physics-Based Rendering** | Employs advanced kinetic algorithms to ensure high frame rates and completely stutter-free animations, even during complex window operations. |
+
+## Open Source & Transparency
+
+Security and community trust are fundamental to this project. Deskwarp is distributed completely free of charge, providing unrestricted access to the underlying logic and rendering pipeline. Developers and enthusiasts are encouraged to inspect the repository, review the architecture, compile the software directly from the source, and contribute to future iterations.
+
+## Getting Started
+
+*(Тут в будущем можно будет добавить короткую инструкцию по установке, требованиям к системе или сборке из исходников)*
