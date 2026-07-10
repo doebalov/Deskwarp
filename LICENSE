@@ -1,36 +1,37 @@
-END USER LICENSE AGREEMENT (EULA)
-For the Software Application "Deskwarp"
+DESKWARP OPEN SOURCE AND MONETIZATION PROTECTION LICENSE
 
-IMPORTANT: READ CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING THE SOFTWARE.
+Copyright (c) 2026 doebalov
 
-This End User License Agreement ("Agreement") is a legally binding contract between you (either an individual or a single entity, hereinafter "Licensee") and the Author and Rightsholder (hereinafter "Licensor") of the software application "Deskwarp". By installing, copying, or otherwise using the Software, Licensee agrees to be bound by the terms of this Agreement. If Licensee does not agree to these terms, do not install or use the Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following explicit conditions:
 
-1. GRANT OF LICENSE
-Licensor hereby grants Licensee a limited, non-exclusive, transferable (solely for non-commercial redistribution), non-sublicensable, and revocable license to download, install, execute, and freely distribute exact, unmodified copies of the compiled binary executables of the Software solely for personal, non-commercial use. on compatible devices owned or controlled by Licensee. All rights not expressly granted to Licensee are reserved by Licensor.
+1. COPYRIGHT NOTICE: 
+The above copyright notice and this complete permission notice shall be included 
+in all copies or substantial portions of the Software.
 
-2. STRICT RESTRICTIONS AND PROHIBITIONS
-Licensee shall not, and shall not permit or cause any third party to:
-2.1. Commercial Distribution & Unauthorized Modification: Sell, lease, rent, market, or sublicense the Software for commercial gain. Licensee is permitted to freely share and redistribute exact, unaltered copies of the Software's compiled binary executables to third parties for personal, non-commercial use, provided that this Agreement and all original copyright notices remain intact. Distribution of any modified versions, cracked binaries, or separate components of the Software is strictly prohibited.
-2.2. Reverse Engineering & Decompilation: Reverse engineer, decompile, disassemble, decrypt, extract, or attempt to derive the source code, underlying structures, or internal operational logic of the Software's binary files.
-2.3. Algorithm & IP Appropriation: Copy, clone, or extract the specific proprietary physics simulation algorithms (including the soft-body node-and-spring grid systems), window capture mechanics, or architectural logic for use in derivative works or competing products.
-2.4. Modification & Tampering: Modify, adapt, translate, alter, or create derivative works based upon the Software, or bypass any built-in security, digital rights management (DRM), or anti-debugging mechanisms.
-2.5. Proprietary Notices: Remove, alter, or obscure any copyright notices, trademarks, digital signatures, or other proprietary legends contained within or on the Software.
+2. MONETIZATION AND ATTRIBUTION PRESERVATION (ANTI-HIJACK CLAUSE):
+The Software contains embedded mechanisms, UI elements, buttons, and hyperlinks 
+(hereinafter referred to as "Donation Mechanisms") designed to direct financial 
+support or donations exclusively to the original author (doebalov). 
 
-3. INTELLECTUAL PROPERTY AND OWNERSHIP
-The Software is licensed, not sold. Licensee acknowledges that Licensor retains sole and exclusive ownership of all right, title, and interest in and to the Software, including all intellectual property rights embedded therein. This includes, without limitation:
-- The original source code, internal structures, and technical architecture.
-- The proprietary physics engine, node-and-spring SoftBody simulation configurations, and kinetic deformation parameters.
-- Low-level system integration implementations, including Win32 API window tracking hooks (WH_MOUSE_LL), graphics rendering pipelines using DirectX 11, and DirectComposition interfaces.
-- Graphical user interface components managed via the Qt framework.
+It is STRICTLY PROHIBITED to:
+a) Remove, obscure, hide, or alter the original Donation Mechanisms in any 
+   compiled distribution or modified source code.
+b) Replace, redirect, or modify the target URLs or payment details of the 
+   Donation Mechanisms to benefit any third party.
+c) Remove original author attribution from the software interface or source code.
 
-4. TERMINATION
-This Agreement is effective from the date Licensee first installs or uses the Software and shall remain in effect until terminated. This License will terminate automatically and immediately without notice from Licensor if Licensee fails to comply with any provision of this Agreement. Upon termination, Licensee must immediately cease all use of the Software and permanently delete all copies of the Software from all devices.
+Anyone distributing this Software (modified or unmodified) must ensure that 
+the original donation pathways to the original author remain intact, visible, 
+and fully functional.
 
-5. DISCLAIMER OF WARRANTIES
-THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. LICENSOR DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED, BUG-FREE, OR COMPATIBLE WITH ALL FUTURE WINDOWS OPERATING SYSTEM UPDATES.
-
-6. LIMITATION OF LIABILITY
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF DATA, SYSTEM CRASHES, HARDWARE OR GPU MALFUNCTIONS, DESKTOP ENVIRONMENT INSTABILITY, OR BUSINESS INTERRUPTION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-7. GOVERNING LAW AND SEVERABILITY
-This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction of the Licensor, without regard to conflict of law principles. If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
