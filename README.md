@@ -26,6 +26,7 @@
   </a>
 </p>
 
+</p>
 
 ## About The Project
 
