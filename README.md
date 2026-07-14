@@ -26,8 +26,6 @@
   </a>
 </p>
 
----
-
 ## About The Project
 
 Deskwarp is a highly optimized, open-source desktop customization utility designed specifically for Windows 10 and Windows 11 environments. It reintroduces the classic, fluid, physics-based "Wobbly Windows" animation to modern operating systems. 
